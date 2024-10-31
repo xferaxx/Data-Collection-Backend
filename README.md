@@ -12,15 +12,16 @@ This backend API collects and stores Zero-Trust Score data.
 1. ** Clone the repository **:
 
    A) git clone https://github.com/xferaxx/Data-Collection-Backend.git
+   
    B) cd Data-Collection-Backend (or where did you clone it)
 
 
-2. ** Install dependencies and Run the project **:
+3. ** Install dependencies and Run the project **:
    
    C) npm install
 
 
-3. ** Run the server **:
+4. ** Run the server **:
    
    D) node index.js
 
